@@ -1,0 +1,7 @@
+com/foreachproject/demo/controllers/UserController.class
+com/foreachproject/demo/repository/UserRepository.class
+com/foreachproject/demo/controllers/DemoController.class
+com/foreachproject/demo/ServletInitializer.class
+com/foreachproject/demo/services/UserService.class
+com/foreachproject/demo/models/User.class
+com/foreachproject/demo/ForEachApplication.class
